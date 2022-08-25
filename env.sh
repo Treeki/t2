@@ -1,0 +1,12 @@
+export MWCIncludes=':libs:Headers:Universal Headers'
+export PP_INCLUDES=('-i' ':libs:PowerPlant:Action Classes'
+'-i' ':libs:PowerPlant:Array Classes'
+'-i' ':libs:PowerPlant:Commander Classes'
+'-i' ':libs:PowerPlant:Feature Classes'
+'-i' ':libs:PowerPlant:File & Stream Classes'
+'-i' ':libs:PowerPlant:Pane Classes'
+'-i' ':libs:PowerPlant:PowerPlant Headers'
+'-i' ':libs:PowerPlant:Support Classes'
+'-i' ':libs:PowerPlant:Table Classes'
+'-i' ':libs:PowerPlant:Utility Classes'
+)
